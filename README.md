@@ -1,5 +1,8 @@
 # flutter_shrine_login
 
+![Preview Image](./preview.png)
+
+
 A new Flutter project.
 
 ## Getting Started
